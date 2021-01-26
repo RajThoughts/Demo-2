@@ -1,0 +1,31 @@
+2021-01-07 20:59:45,518 :CRITICAL : Pytest.test_logging :Critical issue
+2021-01-07 21:04:26,829 :DEBUG : Pytest.test_logging :A debug statement is executed
+2021-01-07 21:04:26,829 :INFO : Pytest.test_logging :Information statement
+2021-01-07 21:04:26,829 :DEBUG : Pytest.test_logging :A debug statement is executed
+2021-01-07 21:04:26,829 :WARNING : Pytest.test_logging :Something is in warning mode
+2021-01-07 21:04:26,829 :ERROR : Pytest.test_logging :A Major error has happend
+2021-01-07 21:04:26,829 :CRITICAL : Pytest.test_logging :Critical issue
+2021-01-07 21:05:35,417 :WARNING : Pytest.test_logging :Something is in warning mode
+2021-01-07 21:05:35,417 :ERROR : Pytest.test_logging :A Major error has happend
+2021-01-07 21:05:35,417 :CRITICAL : Pytest.test_logging :Critical issue
+2021-01-07 21:07:55,472 :WARNING : Pytest.test_logging :Something is in warning mode
+2021-01-07 21:07:55,472 :ERROR : Pytest.test_logging :A Major error has happend
+2021-01-07 21:07:55,472 :CRITICAL : Pytest.test_logging :Critical issue
+2021-01-07 21:12:50,278 :DEBUG : Pytest.test_logging :A debug statement is executed
+2021-01-07 21:12:50,286 :INFO : Pytest.test_logging :Information statement
+2021-01-07 21:12:50,286 :DEBUG : Pytest.test_logging :A debug statement is executed
+2021-01-07 21:12:50,286 :WARNING : Pytest.test_logging :Something is in warning mode
+2021-01-07 21:12:50,286 :ERROR : Pytest.test_logging :A Major error has happend
+2021-01-07 21:12:50,286 :CRITICAL : Pytest.test_logging :Critical issue
+2021-01-07 21:22:55,064 :DEBUG : Pytest.test_loggingdemo :A debug statement is executed
+2021-01-07 21:22:55,064 :INFO : Pytest.test_loggingdemo :Information statement
+2021-01-07 21:22:55,064 :DEBUG : Pytest.test_loggingdemo :A debug statement is executed
+2021-01-07 21:22:55,064 :WARNING : Pytest.test_loggingdemo :Something is in warning mode
+2021-01-07 21:22:55,064 :ERROR : Pytest.test_loggingdemo :A Major error has happend
+2021-01-07 21:22:55,064 :CRITICAL : Pytest.test_loggingdemo :Critical issue
+2021-01-07 22:06:38,861 :DEBUG : Pytest.test_loggingdemo :A debug statement is executed
+2021-01-07 22:06:38,877 :INFO : Pytest.test_loggingdemo :Information statement
+2021-01-07 22:06:38,877 :DEBUG : Pytest.test_loggingdemo :A debug statement is executed
+2021-01-07 22:06:38,877 :WARNING : Pytest.test_loggingdemo :Something is in warning mode
+2021-01-07 22:06:38,892 :ERROR : Pytest.test_loggingdemo :A Major error has happend
+2021-01-07 22:06:38,892 :CRITICAL : Pytest.test_loggingdemo :Critical issue
